@@ -1,4 +1,4 @@
-# Olympics-Data-Visualization
+# Olympics Data Visualization
 This Repo consists of the project files and report of the Olympics Data Visualization Project that I did recently.
 
 The code uses Python's Streamlit and Altair library for graphs. You can interact with the graphs too if you run the codes:
